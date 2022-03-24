@@ -1,1 +1,9 @@
 # COVID-19-data-analysis
+
+
+Corona virus disease 2019 (COVID‑19) is an infectious disease caused by severe acute respiratory syndrome corona virus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic. As of 17 September 2020, more than 29.8 million cases have been reported across 188 countries and territories with more than 940,000 deaths; more than 20.3 million people have recovered. As the number of cases were increasing day by day, Indian Government has taken multiple measures to handle the situation which includes the lockdown for the entire nation .However the primary purpose of the lockdown was to slow down the spread of the disease and give time to governments, both Centre and states, to be better prepared on all fronts to deal with the fallout of rising infections and a drastically slowing economy. Assuming the trajectory of new cases starts showing a flattening curve, the costs of extending the lockdown will far exceed the benefits. Now there are discussions about partial reopening of Colleges /Schools as well.
+With the Government planning to reopen colleges, The principal of the Engineering College where you studied wanted to give an awareness webinar to the students before they start attending classes. Knowing that you are a Data Science Consultant, he thought that you would be the best candidate for the purpose. 
+With the given context, you need to create a dashboard using TABLEAU. (Use the concepts learned in the class).
+For Data Sets: Refer  this  .Pull the details as required. [Clearly mention which all Data sets you used]  https://www.covid19india.org/about
+
+Data preparation has to be done. If required, feel free to make proper assumptions about the data and the analysis process to be followed. Don’t forget to mention the assumptions at the right places.
